@@ -40,6 +40,4 @@ Meu objetivo atual é estudar **ciências da computação** e **matemática** po
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deathnesmousnis2e&show_icons=true&theme=radical)
-
 ---
